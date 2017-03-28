@@ -1,0 +1,2 @@
+module Caaount::PostsHelper
+end
